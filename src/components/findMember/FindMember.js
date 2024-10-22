@@ -1,5 +1,6 @@
 import './FindMember.css';
 
+
 const FindMember = () => {
   return (
     <div className="find-member">
